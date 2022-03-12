@@ -1,0 +1,4 @@
+numpy==1.19.5
+mediapipe==0.8.8
+opencv_python==4.5.2.54
+deepface==0.0.68
